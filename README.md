@@ -5,4 +5,4 @@ For your information, my fellow and I did not start this project from scratch, t
 
 That we've done for a whole semester is to add new functionnalities about translation in SPARQL, we've made the program more consistent, we've added a whole user interface and a feedback system.
 
-If you are still interested, you can check our report but it's written in French. 
+If you are still interested, you can check our report but it's written in French, so obviously we may need some notion or a good translator ... 
